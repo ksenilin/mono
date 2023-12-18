@@ -1,0 +1,148 @@
+/* TV - 4 */
+
+/* position: relative;
+width: 1555px;
+height: 1082px;
+
+background: #FFFFFF; */
+/* main */
+body{
+    background: rgb(171, 51, 51);
+}
+::-webkit-scrollbar {
+    width: 0;
+  }
+  
+    /* подвал */
+    .s4{
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    left: 0px;
+    top: 800px;
+    
+    background: #213A8F;
+    }
+    /* шапка */
+    .s2{
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    
+    background: #213A8F;
+    }
+    
+    /* дс */
+    .p5{
+    box-sizing: border-box;
+    position: absolute;
+    width: 50%;
+    height: 406px;
+    left: 42px;
+    top: 100px;
+    border: 6px solid #8BB91C;}
+    
+    /* текст */
+    .text{
+    position: absolute;
+    width: 40%;
+    height: 406px;
+    left: 55%;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #000000;
+    }
+    
+    /* image 3 */
+    .i{
+    position: absolute;
+    width: 245px;
+    height: 119px;
+    left: 20px;
+    top: 10px;
+    
+    }
+    
+    /* панель лв */
+    .p1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 20%;
+    height: 160px;
+    left: 26%;
+    top: 550px;
+    background: #ffffff;
+    border: 6px solid #565CF6;
+    }
+    /* Мероприятия */
+    .text1{
+    font-family: 'jsMath-cmbx10';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    padding-top: 50px;
+    word-wrap: break-word;
+    color: #213A8F;
+    overflow: hidden;
+    text-decoration: none;
+    }
+    
+    /* панель лв */
+    .p2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 20%;
+    height: 160px;
+    left: 26px;
+    top: 550px;
+    background: #ffffff;
+    border: 6px solid #EB5C0A;
+    }
+   .a {
+    text-decoration: none;
+    }
+    /* панель п2 */
+    .p3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 20%;
+    height: 160px;
+    left: 51%;
+    top: 550px;
+    background: #ffffff;
+    border: 6px solid #E63312;
+    }
+    /* панель п1 */
+    .p4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 20%;
+    height: 160px;
+    left: 76%;
+    top: 550px;
+    background:rgb(255, 255, 255);
+    border: 6px solid #565CF6;
+    }
+    
+    .parent {
+        display: grid;
+        grid-template-columns: 56px 50px;
+        align-content: space-evenly;
+    }
+    .parent2 {
+        display: grid;
+        grid-template-columns: 56px 50px;
+        align-content: space-evenly;
+    }
+

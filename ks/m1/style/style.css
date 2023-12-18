@@ -1,0 +1,130 @@
+
+/* TV - 4 */
+/* .w{
+position: relative;
+width: 1033px;
+height: 1200px;
+
+background: #FFFFFF;
+} */
+
+/* подвал */
+.s5{
+position: absolute;
+width: 100%;
+height: 180px;
+left: 0px;
+top: 959px;
+
+background: #213A8F;
+}
+
+/* шапка */
+.s2{
+position: absolute;
+width: 100%;
+height: 180px;
+left: 0px;
+top: 0px;
+
+background: #213A8F;
+}
+
+/* дс */
+.p5{
+box-sizing: border-box;
+
+position: absolute;
+width: 640px;
+height: 334px;
+left: 458px;
+top: 286px;
+
+background: url(image.png);
+border: 6px solid #00FF0A;
+    
+}
+
+/* панель лв */
+.p1{
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 120px;
+left: 133px;
+top: 285px;
+
+background: #D9D9D9;
+border: 6px solid #565CF6;
+
+}
+/* панель лн */
+.p2{
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 120px;
+left: 133px;
+top: 500px;
+
+background: #D9D9D9;
+border: 6px solid #FE0303;
+}
+
+/* панель пв */
+.p3{
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 120px;
+left: 1223px;
+top: 285px;
+
+background: #D9D9D9;
+border: 6px solid #565CF6;
+    
+}
+
+/* панель пн */
+.p4{
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 120px;
+left: 1223px;
+top: 501px;
+
+background: #D9D9D9;
+border: 6px solid #FE0303;
+}
+
+/* текст */
+.text{
+position: absolute;
+width: 1290px;
+height: 245px;
+left: 133px;
+top: 716px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+color: #000000;
+    
+}
+/* image 3 */
+
+/* position: absolute;
+width: 373px;
+height: 176px;
+left: 18px;
+top: 2px;
+
+background: url(image.png); */
